@@ -7,12 +7,28 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Remove="links.json" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly" Version="8.0.7" />
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="8.0.7" PrivateAssets="all" />
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="wwwroot\imgs\atef\" />
+    <Folder Include="wwwroot\imgs\mostafa\" />
     <Folder Include="wwwroot\imgs\ahlam\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="links.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Update="wwwroot\css\obituary.css">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
 
 </Project>
