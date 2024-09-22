@@ -1,18 +1,25 @@
 ﻿{
-	{
-		"key": "https://ghanemobituary.hamdy.ca",
-		"value": "ghanemobituary-fremaca6duaqe3be.uaenorth-01.azurewebsites.net/Obituary/main"
-	},
-	{
-		"key": "ahlam.hamdy.ca/",
-		"value": "ghanemobituary-fremaca6duaqe3be.uaenorth-01.azurewebsites.net/Obituary/ahlam"
-	},
-	{
-		"key": "mostafa.hamdy.ca/",
-		"value": "ghanemobituary-fremaca6duaqe3be.uaenorth-01.azurewebsites.net/Obituary/mostafa"
-	},
-	{
-		"key": "atef.hamdy.ca/",
-		"value": "ghanemobituary-fremaca6duaqe3be.uaenorth-01.azurewebsites.net/Obituary/atef"
-	}
+  {
+    "gen":"online-barcode-generator.net/"
+  }
+  {
+    "key": "https://ghanemobituary.hamdy.ca",
+    "value": "ghanemobituary-fremaca6duaqe3be.uaenorth-01.azurewebsites.net/Obituary/main"
+  },
+  {
+    "key": "ahlam.hamdy.ca/",
+    "value": "ghanemobituary-fremaca6duaqe3be.uaenorth-01.azurewebsites.net/Obituary/ahlam"
+  },
+  {
+    "key": "mostafa.hamdy.ca/",
+    "value": "ghanemobituary-fremaca6duaqe3be.uaenorth-01.azurewebsites.net/Obituary/mostafa"
+  },
+  {
+    "key": "atef.hamdy.ca/",
+    "value": "ghanemobituary-fremaca6duaqe3be.uaenorth-01.azurewebsites.net/Obituary/atef"
+  }
+  {
+    "key": "ghanem.hamdy.ca/",
+    "value": "ghanemobituary-fremaca6duaqe3be.uaenorth-01.azurewebsites.net/Obituary/ghanem"
+  }
 }
