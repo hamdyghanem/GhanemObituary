@@ -1,10 +1,18 @@
 ﻿{
   {
-    "gen":"online-barcode-generator.net/"
-  }
+    "gen": "online-barcode-generator.net/"
+  },
   {
     "key": "https://ghanemobituary.hamdy.ca",
     "value": "ghanemobituary-fremaca6duaqe3be.uaenorth-01.azurewebsites.net/Obituary/main"
+  },
+  {
+    "key": "https://Obituary1.hamdy.ca",
+    "value": "ghanemobituary-fremaca6duaqe3be.uaenorth-01.azurewebsites.net/Obituary/main1"
+  },
+  {
+    "key": "https://Obituary2.hamdy.ca",
+    "value": "ghanemobituary-fremaca6duaqe3be.uaenorth-01.azurewebsites.net/Obituary/main2"
   },
   {
     "key": "ahlam.hamdy.ca/",
@@ -17,7 +25,7 @@
   {
     "key": "atef.hamdy.ca/",
     "value": "ghanemobituary-fremaca6duaqe3be.uaenorth-01.azurewebsites.net/Obituary/atef"
-  }
+  },
   {
     "key": "ghanem.hamdy.ca/",
     "value": "ghanemobituary-fremaca6duaqe3be.uaenorth-01.azurewebsites.net/Obituary/ghanem"
